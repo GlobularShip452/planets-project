@@ -1,0 +1,1 @@
+// alert('Deze website is niet responsive ontwikkeld. Bekijken via telefoon zal niet fatsoenlijk gaan, computer of tablet aangeraden.');
